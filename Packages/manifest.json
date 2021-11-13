@@ -15,6 +15,7 @@
     "jp.keijiro.klak.visualscripting": "1.0.2",
     "jp.keijiro.minis.visualscripting": "1.0.5",
     "jp.keijiro.noiseshader": "2.0.0",
-    "jp.keijiro.vfxgraphassets": "1.0.5"
+    "jp.keijiro.vfxgraphassets": "1.0.5",
+	"jp.keijiro.laspvfx": "1.0.2"
   }
 }
